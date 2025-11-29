@@ -1,0 +1,288 @@
+{
+  "edges": [
+    {
+      "fromNode": "0634e2e138146a6f",
+      "fromSide": "right",
+      "id": "a304750bf835abca",
+      "toNode": "496f9838e71372ea",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0634e2e138146a6f",
+      "fromSide": "right",
+      "id": "32fa02edd85a776a",
+      "toNode": "217f976cf02fd94b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "9d74a61c0c2cddf4",
+      "fromSide": "left",
+      "id": "7fed53e3da5df753",
+      "toNode": "6777b1fde1d69c8f",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "9d74a61c0c2cddf4",
+      "fromSide": "left",
+      "id": "3ee2e6c5be301df7",
+      "toNode": "eefeccaaa9c17a65",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "9d74a61c0c2cddf4",
+      "fromSide": "left",
+      "id": "009adda0af57a216",
+      "toNode": "6cd92a9c36e79a5b",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "9d74a61c0c2cddf4",
+      "fromSide": "left",
+      "id": "357f99210fa4550e",
+      "toNode": "69a3aba86e923a84",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "9d74a61c0c2cddf4",
+      "fromSide": "left",
+      "id": "e2b71c0b8ecbb071",
+      "toNode": "c0e2a93476c7c26c",
+      "toSide": "right"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 2280,
+      "id": "0baee6382d207f44",
+      "label": "Resources",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 2000,
+      "x": 400,
+      "y": -520
+    },
+    {
+      "height": 1399,
+      "id": "0012200600d84b0e",
+      "label": "Rules and Previous Events",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 887,
+      "x": -560,
+      "y": -520
+    },
+    {
+      "height": 400,
+      "id": "0634e2e138146a6f",
+      "styleAttributes": {
+      },
+      "type": "link",
+      "url": "https://github.com/f1tenth",
+      "width": 400,
+      "x": 420,
+      "y": 161
+    },
+    {
+      "height": 400,
+      "id": "6cd92a9c36e79a5b",
+      "styleAttributes": {
+      },
+      "type": "link",
+      "url": "https://roboracer.ai/learn.html",
+      "width": 400,
+      "x": 1380,
+      "y": -18
+    },
+    {
+      "height": 400,
+      "id": "c0e2a93476c7c26c",
+      "styleAttributes": {
+      },
+      "type": "link",
+      "url": "https://roboracer.ai/build.html",
+      "width": 400,
+      "x": 1380,
+      "y": 420
+    },
+    {
+      "height": 400,
+      "id": "496f9838e71372ea",
+      "styleAttributes": {
+      },
+      "type": "link",
+      "url": "https://github.com/f1tenth/AutonomousRacing_Literature/blob/main/AutonomousRacing_Literature.csv",
+      "width": 400,
+      "x": 920,
+      "y": -39
+    },
+    {
+      "height": 400,
+      "id": "217f976cf02fd94b",
+      "styleAttributes": {
+      },
+      "type": "link",
+      "url": "https://github.com/f1tenth/roborace_publications/blob/main/pub.bibtex",
+      "width": 400,
+      "x": 920,
+      "y": 420
+    },
+    {
+      "height": 400,
+      "id": "6777b1fde1d69c8f",
+      "styleAttributes": {
+      },
+      "type": "link",
+      "url": "https://roboracer.ai/course.html",
+      "width": 400,
+      "x": 1380,
+      "y": -479
+    },
+    {
+      "height": 60,
+      "id": "92ef0b62a7d13938",
+      "styleAttributes": {
+      },
+      "text": "https://github.com/f1tenth",
+      "type": "text",
+      "width": 380,
+      "x": 420,
+      "y": 60
+    },
+    {
+      "height": 61,
+      "id": "cebaeaaa888b5dd9",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "https://github.com/f1tenth/AutonomousRacing_Literature/blob/main/AutonomousRacing_Literature.csv",
+      "type": "text",
+      "width": 480,
+      "x": 880,
+      "y": -140
+    },
+    {
+      "height": 400,
+      "id": "eefeccaaa9c17a65",
+      "styleAttributes": {
+      },
+      "type": "link",
+      "url": "https://roboracer.ai/research.html",
+      "width": 400,
+      "x": 1380,
+      "y": 880
+    },
+    {
+      "height": 60,
+      "id": "fecdc0f6aa330f32",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "https://github.com/f1tenth/roborace_publications/blob/main/pub.bibtex",
+      "type": "text",
+      "width": 360,
+      "x": 940,
+      "y": 850
+    },
+    {
+      "height": 400,
+      "id": "9d74a61c0c2cddf4",
+      "styleAttributes": {
+      },
+      "type": "link",
+      "url": "https://roboracer.ai/index.html",
+      "width": 400,
+      "x": 1980,
+      "y": 161
+    },
+    {
+      "height": 400,
+      "id": "ced09419fa42e26e",
+      "styleAttributes": {
+      },
+      "type": "link",
+      "url": "https://roboracer.ai/build/BuildV2.pdf",
+      "width": 400,
+      "x": -93,
+      "y": -1
+    },
+    {
+      "height": 400,
+      "id": "42338464c0292efc",
+      "styleAttributes": {
+      },
+      "type": "link",
+      "url": "https://2025.ieee-icra.org/event/f1tenth-autonomous-racing-competition-proposal-for-icra-2025/",
+      "width": 400,
+      "x": -93,
+      "y": 459
+    },
+    {
+      "height": 400,
+      "id": "69a3aba86e923a84",
+      "styleAttributes": {
+      },
+      "type": "link",
+      "url": "https://robo-racer.slack.com/join/shared_invite/zt-2sfu4qr7p-3oe27mCnH98muwRR9uEAbg#/shared-invite/email",
+      "width": 400,
+      "x": 1380,
+      "y": 1340
+    },
+    {
+      "height": 400,
+      "id": "00b2bca2ad6b59bb",
+      "styleAttributes": {
+      },
+      "type": "link",
+      "url": "https://korea-race24f1tenth.org/en/rules.html",
+      "width": 400,
+      "x": -93,
+      "y": -460
+    },
+    {
+      "height": 400,
+      "id": "9dfcfcbb910e5b73",
+      "styleAttributes": {
+      },
+      "type": "link",
+      "url": "https://iros2021.f1tenth.org/rules.html#21-vehicle-classes",
+      "width": 400,
+      "x": -540,
+      "y": -460
+    },
+    {
+      "height": 400,
+      "id": "d3ef3ff29f85cc8f",
+      "styleAttributes": {
+      },
+      "type": "link",
+      "url": "https://sites.bu.edu/learningautonomy/f1tenth/",
+      "width": 400,
+      "x": -540,
+      "y": -1
+    },
+    {
+      "height": 400,
+      "id": "40a7f0b374118d19",
+      "styleAttributes": {
+      },
+      "type": "link",
+      "url": "https://bu2024-race.f1tenth.org",
+      "width": 400,
+      "x": -540,
+      "y": 459
+    },
+    {
+      "height": 200,
+      "id": "acff57f017c0b3d8",
+      "styleAttributes": {
+      },
+      "text": "https://robo-racer.slack.com/join/shared_invite/zt-2sfu4qr7p-3oe27mCnH98muwRR9uEAbg#/shared-invite/email",
+      "type": "text",
+      "width": 260,
+      "x": 1060,
+      "y": 1540
+    }
+  ]
+}
