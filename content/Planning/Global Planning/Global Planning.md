@@ -3,7 +3,7 @@ This paper was used frequently in the following note.
 ## Cubic Splines for Curvature Minimization
 To get a near optimal racing line (at least geometrically) we try to minimize the curvature of our path, that way the car can move as fast as possible without wasting energy in slowing down to take sharp turns.
 
-![[Media/CurveMiniIntro.png]]
+![[CurveMiniIntro.png]]
 
 First we split the racetrack into discretization points, which we should connect using cubic splines. These points can be obtained by constructing circles with the largest radii possible at every corner as follows:
 ![[Media/DiscretePointsPaper.png]]
