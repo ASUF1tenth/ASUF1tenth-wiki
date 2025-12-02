@@ -6,7 +6,7 @@ To get a near optimal racing line (at least geometrically) we try to minimize th
 ![[CurveMiniIntro.png]]
 
 First we split the racetrack into discretization points, which we should connect using cubic splines. These points can be obtained by constructing circles with the largest radii possible at every corner as follows:
-![[Media/DiscretePointsPaper.png]]
+![[DiscretePointsPaper.png]]
 Then to connect these points we assume that the x and y coordinates of the path between any two points can be represented in parametric form as cubic polynomials.
 $$
 y_i = a_i t^3 + b_i t^2 + c_i t + d_i\ , \; 0 \le t \le 1
@@ -28,7 +28,7 @@ $$
 ## Forward-Backward Solver for Velocity Profile
 Given our minimum curvature path we must generate the required velocity at each point to follow that path. From our intuition we know that the car can't move too fast in a tight turn or it'll lose traction, so the maximum speed at any curve depends on the curvature $\kappa$ and traction (lateral acceleration $a_n$). **But** the velocity can't be very high at one point and then very low at the next one, so the velocity must also depend on the maximum acceleration and deceleration of the car.
 
-![[Media/LevineHallPennLec.png]]
+![[LevineHallPennLec.png]]
 
 We start by generating a maximum velocity (taking curvature and traction only into account) at each point using the following relation. *****
 $$
