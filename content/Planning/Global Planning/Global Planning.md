@@ -1,5 +1,4 @@
-This paper was used frequently in the following note.
-[paper](https://persama.org.my/images/Menemui_Matematik/2025/MMv471_91_104.pdf)
+This [paper](https://persama.org.my/images/Menemui_Matematik/2025/MMv471_91_104.pdf) was used frequently in the following note.
 ## Cubic Splines for Curvature Minimization
 To get a near optimal racing line (at least geometrically) we try to minimize the curvature of our path, that way the car can move as fast as possible without wasting energy in slowing down to take sharp turns.
 
